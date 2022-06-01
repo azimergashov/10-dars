@@ -1,3 +1,25 @@
 .main {
   flex-grow: 1;
 }
+
+body{
+  background-color: darkgray;
+}
+
+.form{
+  margin-left: auto !important;
+  margin-right: auto !important;
+
+}
+
+.input{
+  font-size: 36px !important;
+}
+
+.input-right{
+  font-size: 36px !important;
+}
+.list{
+  list-style: none !important;
+  font-size: 28px;
+}
