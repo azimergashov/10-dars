@@ -21,7 +21,7 @@ elForm.addEventListener("submit", function(evt){
     todos.push(todo)
 
     elInput.value = null;
-
+    elInputTwo.value = null;
     elList.innerHTML = null;
 
     for(let item of todos){
